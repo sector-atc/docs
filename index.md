@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
+
 # Documentation
 
 - Getting started: see the main repository README for working commands.
